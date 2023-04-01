@@ -1,0 +1,272 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.a{
+	width: 100%;
+	height: 35px;
+	background: black;
+	color: white;
+	text-align: center;
+	letter-spacing: 2px;
+	align-items: center;
+	word-spacing: 3px;
+	font-size: 20px;
+	position: fixed;
+	
+}
+nav {
+	border: 2px none;
+	width: 100%;
+	height: 75px;
+	background: white;
+	color: black;
+	display: flex;
+    justify-content: space-evenly;
+    text-decoration: none;
+    align-items: center;
+    position: fixed;
+    z-index: 1;
+
+}
+.logo img{
+	margin-left: -130px;
+
+}
+.menu a{
+	text-decoration: none;
+    color: black;
+    padding: 15px;
+    font-size: 20px;
+    font-weight: bolder;
+    position: relative;
+    left: 106px;
+}
+.icon i{
+	padding: 21px;
+    font-size: 20px;
+    position: relative;
+    left: 170px;
+
+}
+.banner img{
+	width: 100%;
+	height: 650px;
+}
+.banner-line{
+	position: relative;
+    top: -300px;
+    margin-left: 100px;
+    color: white;
+}
+.banner button{
+	border: 1px solid black;
+	font-size: 20px;
+	background: #ffd200;
+	padding: 10px 15px;
+	font-weight: bolder;
+
+}
+.most{
+	font-size: 17px;
+    margin-top: -118px;
+    text-decoration-color: underline;
+    text-decoration: underline;
+    text-decoration-color: yellow
+}
+.ab{
+	background: white;
+    float: left;
+    width: 274px;
+    height: 380px;
+    margin: 55px -82px 0px 104px;
+    
+}
+.ab img{
+	width: 100%;
+	height: 380px;
+}
+.ab h2{
+	font-size: 20px;
+	text-align: center;
+	font-family: 'Classical_Authentic' !important;
+	text-decoration: underline;
+    text-decoration-color: #ffcd00
+}
+.abc{
+	background: white;
+    float: left;
+    width: 563px;
+    height: 380px;
+    margin: 101px -58px 0px 101px;
+}
+.abc img{
+	width: 100%;
+	height: 100%;
+}
+.abc h1{
+	position: relative;
+    top: -190px;
+    margin-left: 180px;
+    color: white;
+}
+.cc img{
+	width: 100%;
+	height: 650px;
+	margin-top: 70px;
+}
+.cc-line{
+	position: relative;
+    top: -300px;
+    color: white;
+}
+.cc button{
+	border: 1px solid black;
+	font-size: 20px;
+	background: #ffd200;
+	padding: 10px 15px;
+	font-weight: bolder;
+}
+.ddd{
+	background: transparent;
+    float: left;
+    width: 217px;
+    height: 266px;
+    margin: -83px -266px 0px 314px;
+  
+}
+.ddd img{
+	width: 100%;
+	height: 100%;
+}
+.ddd i{
+	color: yellow;
+}
+.ace{
+	background: white;
+    float: left;
+    width: 563px;
+    height: 820px;
+    margin: 150px -58px 0px 101px;
+
+}
+
+.abe{
+	background: white;
+    float: left;
+    width: 563px;
+    height: 380px;
+    margin: 150px -58px 0px 101px;
+}
+.ade{
+	background: white;
+    float: left;
+    width: 563px;
+    height: 380px;
+    margin: 60px -58px 0px 101px;
+}
+.ade img{
+	width: 100%;
+	height: 100%;
+
+}
+
+.ace img{
+	width: 100%;
+	height: 100%;
+
+}
+.abe img{
+	width: 100%;
+	height: 100%;
+}
+.abe h1{
+	position: relative;
+    top: -190px;
+    margin-left: 180px;
+    color: white;
+}
+.ade h1{
+	position: relative;
+    top: -190px;
+    margin-left: 180px;
+    color: white;
+}
+.t h1{
+	position: relative;
+    top: 1665px;
+    left: -246px;
+    font-size: 40px;
+}
+.abf{
+	width: 257px;
+    height: 230px;
+    float: left;
+    margin: 180px -92px -130px 125px
+}
+.acf{
+	width: 257px;
+    height: 510px;
+    float: left;
+    margin: 180px -92px -130px 125px
+}
+.acf img{
+	width: 100%;
+	height: 100%;
+}
+
+.abf img{
+	width: 100%;
+	height: 100%;
+}
+footer{
+	background: black;
+	width: 100%;
+	height: 550px;
+	color: white;
+	position: relative;
+	bottom: -2300px;
+	cursor: pointer;
+}
+.menu1{
+	position: absolute;
+	left: 80px;
+	top: 30px;
+	line-height: 35px;
+	cursor: pointer;
+
+}
+.menu2{
+	position: absolute;
+    left: 350px;
+    top: 30px;
+    line-height: 35px;
+}
+.menu3{
+	position: relative;
+    left: -80px;
+    top: 35px;
+}
+.menu3 i{
+	font-size: 30px;
+    padding: 27px 30px;
+    margin-left: -27px;
+}
+.menu4{
+	position: relative;
+    top: -95px;
+    left: -148px;
+    letter-spacing: 2px;
+    margin-right: -74px;
+    word-spacing: 10px;
+}
+.menu5{
+	position: absolute;
+    top: 450px;
+    left: 150px;
+    word-spacing: 8px;
+    letter-spacing: 2px;
+    font-weight: bold
+}
+
+

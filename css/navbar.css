@@ -1,0 +1,27 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.navbar{
+	background: black;
+	width: 100%;
+	height: 80px;
+	display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 51px;
+
+}
+.logo img {
+	width: 100px;
+}
+.menu a {
+	text-decoration: none;
+	font-size: 20px;
+	color: white;
+	text-decoration: none;
+	margin: 0 10px ;
+	font-weight: bold;
+}

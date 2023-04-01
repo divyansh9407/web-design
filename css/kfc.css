@@ -1,0 +1,145 @@
+	body{
+   		margin: 0px;
+   		padding: 0px;
+   	}
+
+     nav{
+        width: 100%;
+        height: 80px;
+       /* display: flex;
+        justify-content: space-around;*/
+        background: white;
+/*        z-index: 1;*/
+        position: fixed;  
+    }
+    .logo img{
+        width: 80px;
+        height: 25px;
+    }
+    .menu{
+/*        float: right;*/
+    }
+   	 .a{
+   	 	font-size: 13px;
+        position: fixed;	
+   	 }
+   	
+   	.a button {
+   		border: 2px solid white;
+   		background: black;
+   		border-radius: 30px;
+   		padding: 5px;
+   		color: white;
+   		position: relative;
+        right: -13px;
+   	}
+   	.b{
+   		border: 2px solid black;
+   		width: 100%;
+   		height: 100px;
+   		background: #202124;
+        margin-top: 30px;
+   	}
+   	.b h1{
+   		text-align: center;
+   		font-size: 15px;
+   		color: white;
+   		font-family:sans-serif;
+   		
+
+   	}
+   	.b button{
+   		font-size: 15px;
+   		color: white;
+   		background: #e4002b;
+   		padding: 12px;
+   		border-radius: 50px;
+   		border: 1px solid #e4002b;
+   		position: relative;
+        right: -13px;
+
+    }
+    .b1 img{
+    	width: 100%;
+    	margin-top: -36px;
+    	box-sizing: border-box;
+    }
+    .c{
+    	background: #f8f7f5;
+    	width: 100%;
+    	height: 110px;
+    	margin-top: -25px;
+    }
+    .c h1{
+    	position: relative;
+    	top: 20px;
+    	font-size: 36px;
+    	margin-left: 140px;
+    	font-family: sans-serif;
+    	padding-top: 40px;
+    	color: #202124;
+
+
+    }
+    .d{
+    	font-size: 15px;
+    	position: relative;
+    	top: 70px;
+    	left: 131px;
+    	font-family: sans-serif;
+
+    }
+    .d1{
+    	border-top: 2px solid #c1c1c1;
+     	margin-left: 371px;
+        margin-right: 310px;
+        position: relative;
+        top: -36px;
+    }
+    .e{ 
+    	border: 2px solid #f8f7f5;
+        background: #f8f7f5;
+        width: 246px;
+        height: 253px;
+        float: left;
+        margin: 84px 68px -65px -48px;
+        position: relative;
+        right: -185px;
+
+    }
+    .e img{
+    	width: 100%;
+
+    }
+    .e h3{
+    	text-align: center;
+    	font-family: sans-serif;
+    }
+    .e p{
+    	position: relative;
+    	top: 38px;
+    	left: 50px;
+
+    }
+    /*.f{
+    	float: left;
+    }
+    .f h4{
+    	position: relative;
+    	top: -3px;
+    	left: 250px;
+    }
+    .f h2{
+    	position: relative;
+    	top: 40px;
+    	left: 130px;
+    	color: red;
+    	font-family: cursive;
+
+    }
+    .f h3{
+    	position: relative;
+        top: -44px;
+        left: 335px
+    }*/
+    
